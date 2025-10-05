@@ -1,0 +1,18 @@
+
+## Key Features of This Code:
+
+1. **Accurate Methodology**: Implements PLS-SEM as used in your paper
+2. **Complete Analysis**: Covers all 9 hypotheses with direct and mediation effects
+3. **Bootstrapping**: Includes proper bootstrap mediation analysis (5,000 samples)
+4. **Measurement Model**: Calculates Cronbach's Alpha, CR, and AVE
+5. **Visualization**: Creates publication-ready plots
+6. **Reproducibility**: Saves all results to files
+7. **Documentation**: Clear comments matching your paper's methodology
+
+## Important Next Steps:
+
+1. **Update the variable names** in the `constructs` list with your actual column names from the CSV file
+2. **Test the code** with your actual dataset to ensure it runs correctly
+3. **Upload to GitHub** and get a DOI from Zenodo as described previously
+
+This code should satisfy PeerJ's requirements and allow reviewers to verify your analysis.
